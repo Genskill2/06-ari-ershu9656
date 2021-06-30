@@ -29,5 +29,5 @@ string ari(string s){
 float ari=4.71 * characters/words+ 0.5*words/sentences - 21.43;
 int index=(int) ceil(ari) ;
 
-return gradlev[index-1]
+return gradlev[index-1] ;
 }
